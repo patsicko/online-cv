@@ -5,6 +5,7 @@
     text-decoration: none;
     color:black;
     font-family: sans-serif;
+    
 }
 body{
     background-color: #F5F5F5;
@@ -14,6 +15,8 @@ body{
     grid-template-columns: 1fr 1.5fr;
     width: 60%;
     margin: auto;
+    margin-top: 15px;
+    box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.5)
 }
 .left{
     background-color: #E3FFFA;
