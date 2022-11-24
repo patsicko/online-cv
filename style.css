@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F5F5F5;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    width: 60%;
+    margin: auto;
+}
+.left{
+    background-color: #E3FFFA;
+    padding: 50px;
+}
+.right{
+    background-color: #ffffff;
+    padding: 0px 50px 50px 0px;
+}
+.name{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+
+.profession{
+   display: grid;
+   grid-template-columns: 0.5fr 6fr;
+}
+
+.software{
+    
+   
+    padding-top: 40px;
+    padding-left: 10px;
+}
+.hyphen{
+    
+    font-size: 75px;  
+}
+.education{
+width: 33%;
+letter-spacing: .3rem;
+font-family: sans-serif;
+font-weight: 900;
+
+}
+hr{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 4px;
+    background: black;
+    margin-bottom: 50px;
+
+}
+
+.skills{
+    width: 33%;
+    letter-spacing: .3rem;
+    font-family: sans-serif;
+    font-weight: 900;  
+}
+
+.profile{
+    display: flex;
+}
+.address{
+    margin-top: 90px;
+    margin-left: 30px;
+
+}
+.address a{
+    text-decoration: none;
+    color: black;
+}
+.statement-header,.experience_header{
+    margin-top: 50px;
+    margin-left: 35px;
+    width: 33%;
+    letter-spacing: .3rem;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+.hr_right{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 4px;
+    background: black;
+    margin-bottom: 50px;
+    width: 170px; 
+}
+.statement-text,.experience-text{
+    margin-left: 35px;
+}
+.experience1-header,.experience2,.experience3-header,.experience4-header{
+font-family: sans-serif;
+font-weight: 900;
+margin-bottom: 20px;
+}
