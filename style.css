@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    color:black;
+    font-family: sans-serif;
 }
 body{
     background-color: #F5F5F5;
@@ -50,11 +53,12 @@ font-weight: 900;
 }
 hr{
     position: relative;
-    top: 20px;
+    top: 10px;
     border: none;
     height: 4px;
+    width: 150px;
     background: black;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 
 }
 
@@ -69,7 +73,7 @@ hr{
     display: flex;
 }
 .address{
-    margin-top: 90px;
+    margin-top: 70px;
     margin-left: 30px;
 
 }
@@ -78,14 +82,14 @@ hr{
     color: black;
 }
 .statement-header,.experience_header{
-    margin-top: 50px;
+    margin-top: 20px;
     margin-left: 35px;
     width: 33%;
     letter-spacing: .3rem;
     font-family: sans-serif;
     font-weight: 900;
 }
-.hr_right{
+/* .hr_right{
     position: relative;
     top: 20px;
     border: none;
@@ -93,12 +97,12 @@ hr{
     background: black;
     margin-bottom: 50px;
     width: 170px; 
-}
+} */
 .statement-text,.experience-text{
     margin-left: 35px;
 }
 .experience1-header,.experience2,.experience3-header,.experience4-header{
 font-family: sans-serif;
 font-weight: 900;
-margin-bottom: 20px;
+margin-bottom: 15px;
 }
