@@ -75,6 +75,7 @@ hr{
 
 .profile{
     display: flex;
+    margin-left: 35px;
 }
 .address{
     margin-top: 70px;
