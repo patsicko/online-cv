@@ -5,7 +5,7 @@ This online CV will help people to reach me, to know more about me, my education
 # Project Description
 This is a one page CV containing my profile picture, my contact address, my education and work experience
 # Sceenshoot
-![screenshoot](https://user-images.githubusercontent.com/63926982/203840569-e74a1eea-7c6b-42a2-ab19-a9a5eb7bffc5.png)
+![cv](https://user-images.githubusercontent.com/63926982/233196057-14bada48-e406-4428-8abb-c54be0be9e3b.png)
 
 # Build with
 1. HTML
