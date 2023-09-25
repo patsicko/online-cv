@@ -85,11 +85,12 @@ hr{
 .address a{
     text-decoration: none;
     color: black;
+    margin-left: -30px;
 }
 .statement-header,.experience_header{
     margin-top: 20px;
     margin-left: 35px;
-    width: 33%;
+    width: 45%;
     letter-spacing: .3rem;
     font-family: sans-serif;
     font-weight: 900;
